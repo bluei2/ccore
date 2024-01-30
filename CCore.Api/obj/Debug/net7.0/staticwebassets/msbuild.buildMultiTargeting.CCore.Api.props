@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CCore.Api.props" />
+</Project>
